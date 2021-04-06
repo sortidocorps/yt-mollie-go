@@ -13,8 +13,8 @@
 - To call the gingonic: curl "http://localhost:8080/payment"
 
 # Links
-https://www.mollie.com
-https://docs.mollie.com
-https://github.com/gin-gonic/gin
-https://github.com/VictorAvelar/mollie-api-go
+https://www.mollie.com  
+https://docs.mollie.com  
+https://github.com/gin-gonic/gin  
+https://github.com/VictorAvelar/mollie-api-go  
 
